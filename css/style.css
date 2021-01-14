@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.clear{
+    clear:both;
+}
+header{
+    background-color:#FFFBF0;
+    height: 630px;
+}
+.nav-img{
+    width: 250px;
+}
+
+.button-img{
+    height: 26px;
+}
+.woman-card{
+    border: 2px solid rgb(250, 248, 248);
+    border-radius: 6%;
+}
+.woman-dress-img{
+    
+height: 380px;
+    
+width: 100%;
+    
+align-self: center;
+    
+border: 15px solid white;
+    
+border-radius: 40px;
+    
+background: whitesmoke;
+}
+main span{
+    color: orange;
+}
